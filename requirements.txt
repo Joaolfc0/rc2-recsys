@@ -1,0 +1,4 @@
+lightfm>=1.17  # Sistema de Recomendação
+numpy>=1.22.0  # Cálculos Numéricos
+pandas>=2.2.3  # Manipulação de Dados
+scipy>=1.14.1  # Álgebra Linear e Funções Estatísticas
